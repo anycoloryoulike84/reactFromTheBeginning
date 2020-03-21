@@ -17,8 +17,8 @@ class App extends Component{
 				<Route path="/" component={Modal} />
       		</Router>
     	)
-  	}
-
+	  }
+	  
 }
 
 export default App;
